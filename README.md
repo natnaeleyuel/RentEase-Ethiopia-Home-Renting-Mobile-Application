@@ -15,24 +15,24 @@ RentEase Ethiopia is a mobile application designed to simplify the home renting 
 ## Key Featuers 
 ### Property Listings (CRUD):
 
-`Create`: Homeowners and brokers can add new property listings with details such as photos, location, price, and amenities.
-`Read`: Renters can view all available property listings and filter them based on their preferences.
-`Update`: Homeowners and brokers can edit or update their property listings at any time.
-`Delete`: Homeowners and brokers can remove property listings that are no longer available.
+#######`Create`: Homeowners and brokers can add new property listings with details such as photos, location, price, and amenities.
+#######`Read`: Renters can view all available property listings and filter them based on their preferences.
+#######`Update`: Homeowners and brokers can edit or update their property listings at any time.
+#######`Delete`: Homeowners and brokers can remove property listings that are no longer available.
 
 ### User Profiles (CRUD):
 
-`Create`: Users (renters, homeowners, and brokers) can create profiles with personal information, contact details, and preferences.
-`Read`: Users can view their own profiles.
-`Update`: Users can edit and update their profiles as needed.
-`Delete`: Users can delete their profiles if they no longer wish to use the app.
+#######`Create`: Users (renters, homeowners, and brokers) can create profiles with personal information, contact details, and preferences.
+#######`Read`: Users can view their own profiles.
+#######`Update`: Users can edit and update their profiles as needed.
+#######`Delete`: Users can delete their profiles if they no longer wish to use the app.
 
 ### Admin Dashboard (CRUD):
 
-`Create`: Admin can add new users (e.g., homeowners, brokers, or renters) manually if needed.
-`Read`: Admin can view all users, property listings, and app activity.
-`Update`: Admin can edit or update user profiles, property listings, and app settings.
-`Delete`: Admin can remove users or property listings that violate app policies.
+#######`Create`: Admin can add new users (e.g., homeowners, brokers, or renters) manually if needed.
+#######`Read`: Admin can view all users, property listings, and app activity.
+#######`Update`: Admin can edit or update user profiles, property listings, and app settings.
+#######`Delete`: Admin can remove users or property listings that violate app policies.
 
 #### Additional Admin Features:
 => Approve or reject new property listings.
