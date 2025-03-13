@@ -15,7 +15,7 @@ RentEase Ethiopia is a mobile application designed to simplify the home renting 
 ## Key Featuers 
 ### Property Listings (CRUD):
 
-**Create**: Homeowners and brokers can add new property listings with details such as photos, location, price, and amenities.<br/>
+**Create**: Homeowners and brokers can add new property listings with details such as photos, location, and price.<br/>
 **Read**: Renters can view all available property listings and filter them based on their preferences.<br/>
 **Update**: Homeowners and brokers can edit or update their property listings at any time.<br/>
 **Delete**: Homeowners and brokers can remove property listings that are no longer available.
